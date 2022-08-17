@@ -1,6 +1,6 @@
 ## Olá, eu sou o Rodrigo Gonçalves
 
-- 🔭 Hoje trabalho com desenvolvimento .Net
+- 🔭 Trabalho com desenvolvimento .Net
 - 🌱 Estudando React
 
 <div>
