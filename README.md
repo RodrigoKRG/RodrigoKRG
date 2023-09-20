@@ -1,7 +1,7 @@
-## Olá, eu sou o Rodrigo Gonçalves
+## Hi, I'm Rodrigo Gonçalves
 
-- 🔭 Trabalho com desenvolvimento .Net
-- 🌱 Estudando React
+- 🔭 .Net Developer
+- 🌱 Studying React
 
 <div>
   <a href="https://github.com/RodrigoKRG">
